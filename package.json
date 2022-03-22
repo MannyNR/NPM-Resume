@@ -1,5 +1,5 @@
 {
-  "name": "package.json",
+  "name": "package.json-resume",
   "version": "1.0.0",
   "description": "mannynr-resume",
   "main": "index.js, readme.md, info.json",
@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/MannyNR/NPM-Resume/issues"
   },
-  "homepage": "https://github.com/MannyNR/NPM-Resume#readme"
+  "homepage": "https://github.com/MannyNR/NPM-Resume#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
